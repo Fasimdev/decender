@@ -1,9 +1,16 @@
 {
   "pc": "com.ikhwandev.descendersgameguide",
+  "unity_ads": "3996223",
   "kang_zayvius": [      
      {
       "id": "1",
       "tittle": "Guide Demo",
+      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/1.html",
+      "images": "https://gamefever.co.id/wp-content/uploads/2020/06/GFID_MobileLegendsBannedIndia1.jpg"
+     },
+     {
+      "id": "2",
+      "tittle": "Guide Demo 2",
       "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/1.html",
       "images": "https://gamefever.co.id/wp-content/uploads/2020/06/GFID_MobileLegendsBannedIndia1.jpg"
      }
