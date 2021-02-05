@@ -11,8 +11,44 @@
      {
       "id": "2",
       "tittle": "Complete bonus objectives",
-      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/1.html",
+      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/2.html",
       "images": "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2018/03/16/7c10ba1e-dbd9-4005-a1fe-d79667e99608/descenders"
+     },
+     {
+      "id": "3",
+      "tittle": "Mess around with the camera",
+      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/3.html",
+      "images": "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2018/03/16/adf1a811-cd18-43dd-9dce-91a8b341b78a/descenders"
+     },
+     {
+      "id": "4",
+      "tittle": "Play practice mode",
+      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/4.html",
+      "images": "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2018/03/16/2b0624bd-567a-41bb-a137-6794ccb98b4b/descenders-game"
+     },
+     {
+      "id": "5",
+      "tittle": "Learn pumping and counter-pumping",
+      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/5.html",
+      "images": "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2018/03/16/7c63c3a9-41d2-46d1-8a19-97971c44e1ad/descenders-game"
+     },
+     {
+      "id": "6",
+      "tittle": "Attack mode",
+      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/6.html",
+      "images": "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2018/03/16/8cdb82bf-f23e-4e06-adc1-b43e28d32b1f/descenders-attack-mode"
+     },
+     {
+      "id": "7",
+      "tittle": "Bigger bails equal more points lost",
+      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/7.html",
+      "images": "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2018/03/16/7e6b3bdf-9da6-4081-91ae-06e6ad7cfe83/descenders-bail"
+     },
+     {
+      "id": "8",
+      "tittle": "Play at your own speed",
+      "link_html": "https://raw.githubusercontent.com/fasimdev/decender/main/8.html",
+      "images": "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2018/03/16/587af2c6-ff21-4df3-8126-1dc43919bc9b/descenders"
      }
   ]
 }
